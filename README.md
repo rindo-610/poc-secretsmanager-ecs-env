@@ -1,0 +1,2 @@
+- 以下の検証目的で作成したTerraformリポジトリです。
+    - https://qiita.com/rindo_/items/8d9b86419b62bbf0da20
