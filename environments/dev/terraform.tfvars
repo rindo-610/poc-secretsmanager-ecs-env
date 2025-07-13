@@ -21,7 +21,5 @@ service_name        = "poc-service"
 desired_count       = 1
 
 # secretsmanager
-secret_name = "poc-secretsmanager"
-secret_value = {
-  "key" = "test" # PoCのためシークレット値をハードコーディングしている
-}
+secret_name  = "poc-secretsmanager"
+secret_value = "test" # PoCのためシークレット値をハードコーディングしている

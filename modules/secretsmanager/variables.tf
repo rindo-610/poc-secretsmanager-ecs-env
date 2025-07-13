@@ -5,5 +5,5 @@ variable "secret_name" {
 
 variable "secret_value" {
   description = "シークレットの値"
-  type        = map(string)
+  type        = string
 }
