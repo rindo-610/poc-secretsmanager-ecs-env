@@ -1,2 +1,2 @@
-以下の記事用に作成したTerraformリポジトリです。
-https://qiita.com/rindo_/items/8d9b86419b62bbf0da20
+- 以下の記事用に作成したTerraformリポジトリです。
+    - https://qiita.com/rindo_/items/8d9b86419b62bbf0da20
